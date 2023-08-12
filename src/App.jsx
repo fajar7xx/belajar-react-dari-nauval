@@ -101,7 +101,7 @@ function App() {
 
   return (
     <>
-      <h1>Simple Todo Lists</h1>
+      <h1>Todo Lists</h1>
 
       <div>
         {message && (
